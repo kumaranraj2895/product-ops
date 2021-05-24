@@ -1,0 +1,2 @@
+com/springboot/myproject/MyprojectApplicationTests.java
+ com.springboot.myproject.MyprojectApplicationTests
