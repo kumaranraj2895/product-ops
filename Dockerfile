@@ -1,4 +1,4 @@
-FROM openjdk:8
+FROM openjdk:8-alpine
 ARG user=springbootuser
 ARG group=springbootuser
 ARG uid=1000
