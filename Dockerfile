@@ -8,3 +8,4 @@ RUN useradd -u ${uid} -g ${group} -s /bin/sh -m ${user} # <--- the '-m' create a
 USER ${uid}:${gid}
 ADD target/prod-app.jar prod-app.jar
 ENTRYPOINT ["java","-jar","prod-app.jar"]
+#Change 1
