@@ -9,3 +9,4 @@ USER ${uid}:${gid}
 ADD target/prod-app.jar prod-app.jar
 ENTRYPOINT ["java","-jar","prod-app.jar"]
 #Change 1
+#change 2
