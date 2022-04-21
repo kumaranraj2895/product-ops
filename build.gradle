@@ -3,7 +3,7 @@
  */
 
 plugins {
-    id 'java'
+    id 'java-8'
     id 'maven-publish'
     id 'org.springframework.boot' version '2.3.4.RELEASE'
 }
